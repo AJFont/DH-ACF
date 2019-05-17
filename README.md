@@ -6,5 +6,5 @@ e-Market
 
 # Contenido
 1. HOME y CATALOGO
-2. CARRITO Y LOGIN
+2. CARRITO y LOGIN
 

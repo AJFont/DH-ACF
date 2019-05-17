@@ -1,15 +1,15 @@
 # DH-ACF
 DH Full-Stack Proyecto Integrador
 
-# Integrantes
+## Integrantes
 - Alvarez, Juan Cruz
 - Crespo, Sonia
 - Font, Alejandro
 
-# Rama
+## Rama
 e-Market
 
-# Contenido
+## Contenido
 1. HOME y CATALOGO
 2. CARRITO y LOGIN
 
